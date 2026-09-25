@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Ahem Saxena, passionate about Python, data analysis, and machine learning. I build hands-on projects and compete in hackathons to sharpen my skills (top 33 finalist, Asian Hackathon for Green Future 2026 🌏).<br><br>🛠️ Skills: Python · SQL · NumPy · Pandas · Matplotlib · Git/GitHub · Jupyter<br>🎯 Focus areas: Machine Learning · Data Science · Automation<br>📫 Open to Data Science / ML internships
 
 
